@@ -1,2 +1,4 @@
 Vpc/.terraform
 Vpc/.terraform.lock.hcl
+Vpc/plan-vpc
+Vpc/terraform.tfstate
