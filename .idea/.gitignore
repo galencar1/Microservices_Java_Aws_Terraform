@@ -1,5 +1,4 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-../Vpc/.terraform
-../Vpc/.terraform.lock.hcl
+
